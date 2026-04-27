@@ -7,7 +7,7 @@ import plotly.express as px
 # ---------- PAGE CONFIG ----------
 st.set_page_config(page_title="Soil Sealing Dashboard", layout="wide")
 
-# ---------- CUSTOM SIDEBAR STYLE ----------
+# ---------- CUSTOM SIDEBAR STYLE ---------
 st.markdown("""
 <style>
 
