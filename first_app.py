@@ -200,7 +200,7 @@ st.plotly_chart(fig_hist, use_container_width=True)
 
 st.markdown("---")
 
-# ---------- INSIGHT ----------
+# --------- INSIGHT ---------
 if country != "All":
     insight = f"""
     {country} has an average soil sealing of {country_avg:.2f}, 
