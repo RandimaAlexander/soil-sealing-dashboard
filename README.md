@@ -31,11 +31,11 @@ The dashboard enables users to:
 
 ## Live Dashboard
 
-👉 View Streamlit App
+👉 [View Streamlit App](https://soil-sealing-dashboard-yifeycpxhvpuipt6w8zy7m.streamlit.app/)
 
 ## GitHub Repository
 
-👉 View Code
+👉 [View Code](https://github.com/RandimaAlexander/soil-sealing-dashboard)
 
 ## 📌 How to Run Locally
 
